@@ -24,6 +24,7 @@
     max-width: var(--max-width);
     padding: 5rem 1rem;
     margin: auto;
+    text-align: center;
 }
 
 .section__title{
@@ -216,13 +217,13 @@ header .tracks{
 }
 
 
-.service,
+.box,
 footer,
 .certification{
     background-color: var(--primary-color);
 }
 
-.service__grid,
+.box__grid,
 .project__grid,
 #certification__grid{
     display: grid;
@@ -236,7 +237,7 @@ footer,
     grid-template-columns: repeat(2, 1fr);
 }
 
-.service__card,
+.box__card,
 .certification__card{
     display: grid;
     gap: 1rem;
@@ -245,19 +246,19 @@ footer,
     border-radius: 5px;
 }
 
-.service__card i{
+.box__card i{
     font-size: 1.5rem;
 }
 
-.service__card h4,
+.box__card h4,
 #certification__grid h4{
     font-size: 1.2rem;
     font-weight: 500;
     text-align: center;
 }
 
-.service__card ul li,
-.service__card p
+.box__card ul li,
+.box__card p
 #certification__grid ul li,
 #certification__grid p{
     color: var(--text-light);
@@ -403,7 +404,7 @@ footer,
         text-align: left;
     }
 
-    .service__grid,
+    .box__grid,
     #certification__grid{
         grid-template-columns: repeat(2, 1fr);
         gap: 2rem;
@@ -432,7 +433,7 @@ footer,
         right: 2rem;
     }
 
-    .service__grid,
+    .box__grid,
     .project__grid
     #certification__grid{
         grid-template-columns: repeat(3, 1fr);
