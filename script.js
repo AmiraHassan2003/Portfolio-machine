@@ -10,6 +10,7 @@ var certificate_links =
         'Preprocessing%20for%20Machine%20Learning%20in',
         'Supervised%20Learning%20with%20scikit-learn',
         'Python%20Programming%20Basics',
+        'https://github.com/AmiraHassan2003/Certificates/blob/main/Machine/Microsoft.pdf',
 
     ];
 
@@ -24,6 +25,7 @@ var certificate_titles =
         'Preprocessing for Machine Learning in Python',
         'Supervised Learning with scikit-learn',
         'Python Programming Basics',
+        'Microsoft Learn Student Ambassadors',
 
     ];
 
@@ -38,6 +40,7 @@ var certificate_desc =
     'This Preprocessing for Machine Learning in Python certificate from DataCamp highlights my expertise in handling missing data, encoding categorical variables, scaling features, and feature selection. I gained hands-on experience using Pandas and Scikit-learn to prepare data for machine learning models, ensuring optimal model performance.',
     'This Supervised Learning with Scikit-Learn certificate from DataCamp demonstrates my expertise in regression and classification algorithms, including linear regression, decision trees, and k-nearest neighbors (k-NN). The course provided hands-on experience with Scikit-learn, enabling me to implement, train, and evaluate machine learning models for real-world datasets.',
     'This Python Programming Basics certificate from ITI Platform (Mahara-Tech) validates my fundamental knowledge of Python. The course covered variables, data types, loops, functions, and basic algorithms, strengthening my ability to write efficient and structured Python code.',
+    'I successfully completed the Microsoft Azure AI Fundamentals course, gaining a solid foundation in Artificial Intelligence and Machine Learning. This training provided hands-on experience with Microsoft Azure AI tools, covering Computer Vision, Natural Language Processing (NLP), Knowledge Mining, Generative AI, and Responsible AI. This experience has strengthened my understanding of AI concepts and enhanced my ability to build intelligent solutions using Azure.',
 
 ];
 
