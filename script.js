@@ -11,7 +11,7 @@ var certificate_links =
         'Supervised%20Learning%20with%20scikit-learn',
         'Python%20Programming%20Basics',
         'Microsoft',
-
+        'Mobtakeron',
     ];
 
 var certificate_titles = 
@@ -26,6 +26,7 @@ var certificate_titles =
         'Supervised Learning with scikit-learn',
         'Python Programming Basics',
         'Microsoft Learn Student Ambassadors',
+        'Introduction to Artificial Intelligence and Machine Learning with Quantum Computing Foundations',
 
     ];
 
@@ -41,7 +42,7 @@ var certificate_desc =
     'This Supervised Learning with Scikit-Learn certificate from DataCamp demonstrates my expertise in regression and classification algorithms, including linear regression, decision trees, and k-nearest neighbors (k-NN). The course provided hands-on experience with Scikit-learn, enabling me to implement, train, and evaluate machine learning models for real-world datasets.',
     'This Python Programming Basics certificate from ITI Platform (Mahara-Tech) validates my fundamental knowledge of Python. The course covered variables, data types, loops, functions, and basic algorithms, strengthening my ability to write efficient and structured Python code.',
     'I successfully completed the Microsoft Azure AI Fundamentals course, gaining a solid foundation in Artificial Intelligence and Machine Learning. This training provided hands-on experience with Microsoft Azure AI tools, covering Computer Vision, Natural Language Processing (NLP), Knowledge Mining, Generative AI, and Responsible AI. This experience has strengthened my understanding of AI concepts and enhanced my ability to build intelligent solutions using Azure.',
-
+    'Completed an in-depth course on AI and machine learning fundamentals, including deep learning, natural language processing (NLP), and supervised/unsupervised learning techniques. Gained foundational knowledge of quantum computing and its applications in AI.'
 ];
 
 
