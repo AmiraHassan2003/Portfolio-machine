@@ -10,7 +10,7 @@ var certificate_links =
         'Preprocessing%20for%20Machine%20Learning%20in',
         'Supervised%20Learning%20with%20scikit-learn',
         'Python%20Programming%20Basics',
-        'https://github.com/AmiraHassan2003/Certificates/blob/main/Machine/Microsoft',
+        'Microsoft',
 
     ];
 
